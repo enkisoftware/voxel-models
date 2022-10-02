@@ -1,0 +1,122 @@
+Support the development of Avoyd through [GitHub Sponsors](https://github.com/sponsors/dougbinks) or [Patreon](https://www.patreon.com/enkisoftware)  
+
+[<img src="https://img.shields.io/static/v1?logo=github&label=Github&message=Sponsor&color=#ea4aaa" width="200"/>](https://github.com/sponsors/dougbinks)    [<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="Become a Patron" width="150"/>](https://www.patreon.com/enkisoftware)  
+
+# Voxel Models
+Free voxel models suitable for use in [Avoyd Voxel Editor](https://www.avoyd.com) for creating voxel art, export to 3D mesh etc.  
+All downloadable assets are licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
+
+## Voxel Models in Avoyd
+### How to Open a Voxel Model
+1. [Download Avoyd](https://www.avoyd.com) - _currently Windows only_  
+1. Install and open Avoyd  
+1. Download a voxel file from the repository and save it on your PC  
+1. Drag and drop the file into Avoyd  
+### Editing Voxels, Rendering, Exporting Models
+  * See the [Avoyd online documentation](https://www.avoyd.com/avoyd-voxel-editor-documentation.html)  
+### Adding a Model to an Existing World with 'Load World as Paste Brush'
+1. In the Voxel Editor: open menu _File > Load World as Paste Brush..._  
+1. Select an Avoyd world file (.avwr). You'll be able to use it as a brush with the Edit Tool.  
+### File Formats Compatible with Avoyd
+  * __.AVWR__ - Avoyd World file, a compressed binary  
+  * __.VOX__ - MagicaVoxel file format - [Specification](https://github.com/ephtracy/voxel-model/blob/master/MagicaVoxel-file-format-vox.txt) - [Documentation: Importing MagicaVoxel Models Vox files into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportVox)  
+  * __.MCA, .NBT__ - Minecraft Maps and Structures - [Documentation: Importing Minecraft Maps and Structures into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportMinecraftHowTo)  
+  * __.JPG, .PNG, .TGA__ - Heightmap and/or Palette - [Documentation: Heightmaps](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportHeightmap) & [Palettes import into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportColour)  
+  * __Raw 3D Binary Arrays__ - [Documentation](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportRaw3DBinaryArray)  
+
+## List of Voxel Models and Attributions 
+All the models in this repository are CC BY 4.0. The attribution may vary.  
+To see a file licence information in Avoyd, open _View > World Properties..._
+
+### [Boat.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Boat.avwr)
+<img alt="Boat with a red hull, white walls and windows on a block of wavy sea. Kelp and fish are visible and an anchor rests on the sea floor. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Boat_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Rebecca Michalak and Juliette Foucaut, Enkisoftware. (CC BY 4.0)</sub>
+
+### [Box_Transparency.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Box_Transparency.avwr)
+<img alt="White box with a door lit from the inside. It is topped by two clear glass boxes: one is half-filled with water; the other is empty and sits inside the larger box, lit from underneath. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Box_Transparency_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Doug Binks, Juliette Foucaut, Enkisoftware. (CC BY 4.0)</sub>
+
+### [Building_Ruined.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Building_Ruined.avwr)
+<img alt="Four stories modern tower block on a street. Corners of the building are crumbling and vegetation is growing over it. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Building_Ruined_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Rebecca Michalak and Enkisoftware. (CC BY 4.0)</sub>
+
+### [Camper.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Camper.avwr)
+<img alt="Yellow Volkswagen camper car on the road. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Camper_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Rebecca Michalak and Juliette Foucaut, Enkisoftware. (CC BY 4.0)</sub>
+
+### [Cat.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Cat.avwr)
+<img alt="White cat with a purple collar lying on a red cushion. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Cat_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Juliette Foucaut, Enkisoftware. (CC BY 4.0)</sub>
+
+### [Cornell_Box.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Cornell_Box.avwr)
+<img alt="Standard Cornell box. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Cornell_Box_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Enkisoftware. (CC BY 4.0)</sub>
+
+### [Cornell_Box_Empty.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Cornell_Box_Empty.avwr)
+<img alt="Empty Cornell box. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Cornell_Box_Empty_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Enkisoftware. (CC BY 4.0)</sub>
+
+### [Cornfield.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Cornfield.avwr)
+<img alt="Cornfield with a blue tractor. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Cornfield_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Rebecca Michalak and Enkisoftware. (CC BY 4.0)</sub>
+
+### [Crane.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Crane.avwr)
+<img alt="Construction crane. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Crane_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Juliette Foucaut, Enkisoftware. (CC BY 4.0)</sub>
+
+### [Drink.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Drink.avwr)
+<img alt="Glass of lemonade with ice, straw and fruit slice. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Drink_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Rebecca Michalak and Enkisoftware. (CC BY 4.0)</sub>
+
+### [Fish.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Fish.avwr)
+<img alt="Striped red and copper tropical fish with a cube shaped body and large fins. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Fish_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Juliette Foucaut, Enkisoftware. (CC BY 4.0)</sub>
+
+### [House.avwr](https://github.com/enkisoftware/voxel-models/blob/main/House.avwr)
+<img alt="Pink house with windows on all sides, doors and balustrades. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_House_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Juliette Foucaut, Enkisoftware. (CC BY 4.0)</sub>
+
+### [House_Island.avwr](https://github.com/enkisoftware/voxel-models/blob/main/House_Island.avwr)
+<img alt="Three storey house on stilts sitting in water with sun screen walls and fairy lights on the ground floor, a staircase leading to a first floor with windows, ceiling lights and a ceiling opening, and a glass door leading to the external staircase to the terrace. Purple vegetation grows over the building, and a row boat is stored under it. Inspired by Insulo de la Rozoj. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_House_Island_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Juliette Foucaut, Enkisoftware. (CC BY 4.0)</sub>
+
+### [Lion.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Lion.avwr)
+<img alt="Lion lying under a tree. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Lion_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Juliette Foucaut, Enkisoftware. (CC BY 4.0)</sub>
+
+### [Mushrooms.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Mushrooms.avwr)
+<img alt="Translucent mushrooms glowing blue in a cave, with floating spores. Large aperture depth of field effect. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Mushrooms_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Rebecca Michalak and Enkisoftware. (CC BY 4.0)</sub>
+
+### [Ship_Crashed.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Ship_Crashed.avwr)
+<img alt="Spaceship crashed in a red canyon, burst into flames and smoke. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Ship_Crashed_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Rebecca Michalak and Enkisoftware. (CC BY 4.0)</sub>
+
+### [Space.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Space.avwr)
+<img alt="Spaceship made of greeble metallic sheet transiting near a ringed planet and a bright star. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Space_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Rebecca Michalak and Enkisoftware. (CC BY 4.0)</sub>
+
+### [Spaceship.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Spaceship.avwr)
+<img alt="Spaceship featuring a large ice and glass sphere inside a metal frame. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Spaceship_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Juliette Foucaut, Enkisoftware. (CC BY 4.0)</sub>
+
+### [Tower.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Tower.avwr)
+<img alt="Stone tower with ridged walls and tall, narrow windows. It features three levels linked by an internal staircase and access to the outside. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Tower_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Juliette Foucaut, Enkisoftware. (CC BY 4.0)</sub>
+
+### [Tree_Metal.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Tree_Metal.avwr)
+<img alt="Metallic tree featuring a dark trunk and white foliage on a smooth surface. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Tree_Metal_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Juliette Foucaut, Enkisoftware. (CC BY 4.0)</sub>
+
+# Contributions
+If you'd like to contribute your own Avoyd voxel models, please open a _pull request (PR)_.  
+* Works licence must be [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/);  
+* Specify the attribution in the README and in the .avwr Avoyd World properties notes (_View > World Properties..._);  
+* Use _Edit > Defragment the Octree_ before saving;  
+* Try to limit the file size to 2MB;  
+* Do not include any image file in the PR;  
+* Optional: include a __link__ (with alt text) to a screenshot or a render of your model.  
+
+# Other Voxel Resources
+These resources may require further permissions to use. Please check their individual licencing conditions.
+### Vox Models
+* [vox-models by @Kluchek](https://github.com/kluchek/vox-models) (CC BY 4.0)  
+* [mmmm Mini Mike's Metro Minis by @mikelovesrobots](https://github.com/mikelovesrobots/mmmm) (CC BY 4.0)  
+* [game scenes by @ZachSoares commissioned by Akamai](https://github.com/Akamai-Community/inspiring-game-scenes) (CC BY 4.0)  
+* [Subreddit r/gameassets filtered by "Voxel" flair](https://www.reddit.com/r/gameassets/?f=flair_name%3A%22Voxel%22)  
+* [OpenGameArt.org](https://opengameart.org/)  
+### Minecraft Worlds
+* [Mattupolis by mattuFIN](https://www.planetminecraft.com/project/mattupolis-large-modern-city-project/)  
+* [Vokselia/Voxelia](http://vokselia.com)  
+* [DREHMAL: PRIMORDIAL](https://www.planetminecraft.com/project/drehmal-v2-prim-rdial-12k-x-12k-survival-adventure-map/)  
+* [Greenfield City](https://www.planetminecraft.com/project/greenfield---new-life-size-city-project/)  
+### Heightmaps and heightmap generation tools
+* [www.motionforgepictures.com/height-maps](https://www.motionforgepictures.com/height-maps) provided for free under a creative commons no attribution licence  
+* [commons.wikimedia.org/wiki/File:Hand_made_terrain_heightmap.png](https://commons.wikimedia.org/wiki/File:Hand_made_terrain_heightmap.png) (CC0 1.0)  
+* [tangrams.github.io/heightmapper](https://tangrams.github.io/heightmapper) earth map by [www.mapzen.com/blog/tangram-heightmapper](https://www.mapzen.com/blog/tangram-heightmapper)  
+### Palettes
+* [Lospec Palette List](https://lospec.com/palette-list)
+
+# Credits
+Models and repository - [Juliette Foucaut (Enkisoftware)](http://www.enkisoftware.com/about.html#juliette) - [@juliettef](https://github.com/juliettef)  
+Models - [Rebecca Michalak](https://www.artstation.com/remichalak)  
