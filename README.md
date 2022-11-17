@@ -100,9 +100,10 @@ If you'd like to contribute your own Avoyd voxel models, please open a _pull req
 # Other Voxel Resources
 These resources may require further permissions to use. Please check their individual licencing conditions.
 ### Vox Models
-* [vox-models by @Kluchek](https://github.com/kluchek/vox-models) (CC BY 4.0)  
-* [mmmm Mini Mike's Metro Minis by @mikelovesrobots](https://github.com/mikelovesrobots/mmmm) (CC BY 4.0)  
-* [game scenes by @ZachSoares commissioned by Akamai](https://github.com/Akamai-Community/inspiring-game-scenes) (CC BY 4.0)  
+* [Vox models by @Kluchek](https://github.com/kluchek/vox-models) (CC BY 4.0)  
+* [Mini Mike's Metro Minis by @mikelovesrobots](https://github.com/mikelovesrobots/mmmm) (CC BY 4.0)  
+* [Game scenes by @ZachSoares (Akamai commission)](https://github.com/Akamai-Community/inspiring-game-scenes) (CC BY 4.0)  
+* [Vehicles by Geeksagon](https://geeksagon.itch.io) (CC0)  
 * [Subreddit r/gameassets filtered by "Voxel" flair](https://www.reddit.com/r/gameassets/?f=flair_name%3A%22Voxel%22)  
 * [OpenGameArt.org](https://opengameart.org/)  
 ### Minecraft Worlds
