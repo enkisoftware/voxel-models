@@ -26,9 +26,9 @@ To load a world as a paste brush, go through the following steps:
 1. Open the Voxel Editor.
 1. Open menu _File > Load World as Paste Brush..._  
 1. Browse and select an Avoyd world file (_.avwr_). 
-1. Use the world file model as a paste brush (this is part of the Edit Tool).  
+1. Use the world file model as a paste brush. (The paste operation is part of the Edit Tool.)  
 ## List of file Formats Compatible with Avoyd
-  * __.AVWR__ - Avoyd World file, a compressed binary 3333file format  
+  * __.AVWR__ - Avoyd World file, a compressed binary file format  
   * __.VOX__ - MagicaVoxel file format - [Specification](https://github.com/ephtracy/voxel-model/blob/master/MagicaVoxel-file-format-vox.txt) - [Documentation: Importing MagicaVoxel Models Vox files into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportVox)  
   * __.MCA, .NBT__ - Minecraft Maps and Structures - [Documentation: Importing Minecraft Maps and Structures into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportMinecraftHowTo)  
   * __.JPG, .PNG, .TGA__ - Heightmaps and Palettes - [Documentation: Importing Heightmaps](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportHeightmap) & [Palettes into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportColour)  
