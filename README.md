@@ -99,13 +99,19 @@ To see a file licence information in Avoyd, open _View > World Properties..._
 <img alt="Metallic tree featuring a dark trunk and white foliage on a smooth surface. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Tree_Metal_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Juliette Foucaut, Enkisoftware. (CC BY 4.0)</sub>
 
 # Contributions
-If you'd like to contribute your own Avoyd voxel models, please open a _pull request (PR)_ and follow the instructions:  
-* Works licence must be [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) or more permissive;  
-* Specify the attribution in the [READMEmd list of models](https://github.com/enkisoftware/voxel-models#list-of-voxel-models-and-attributions), and in the _.avwr_ Avoyd World properties notes (_View > World Properties..._);  
-* Use _Edit > Defragment the Octree_ before saving;  
-* Try to limit the file size to 2MB;  
-* Do not include any image file in the PR;  
-* Optional: include a __link__ (with alt text) to a screenshot or a render of your model.  
+If you'd like to contribute your own Avoyd voxel models, please follow the instructions:  
+* **The work licence must be [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) or more permissive.**  
+* Avoyd world file (_.avwr_) configuration:
+    * Specify the license and attribution in the Properties: _View > World Properties... > Notes field_.
+    * Orient the model along the _y_ axis (+y is up).
+    * Centre the model on origin using _Edit > Move World Centre to Origin_.  
+    * Reduce the number of Materials to be only those used in the model.  
+    * Defragment before you save using _Edit > Defragment the Octree_.  
+    * Try to limit the file size to 2MB.  
+    * Use a short, descriptive file name.  
+* Open a pull request (PR)
+    * Do not include any image file.  
+    * Optional - include a __link__ (with alt text) to a screenshot or a render of your model.  
 
 # Other Voxel Resources
 These resources may require further permissions to use. Please check their individual licencing conditions.
