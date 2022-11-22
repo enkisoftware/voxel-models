@@ -7,22 +7,32 @@ Free voxel models suitable for use in [Avoyd Voxel Editor](https://www.avoyd.com
 All downloadable assets are licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
 
 ## Voxel Models in Avoyd
-### How to Open a Voxel Model
-1. [Download Avoyd](https://www.avoyd.com) - _currently Windows only_  
-1. Install and open Avoyd  
-1. Download a voxel file from the repository and save it on your PC  
-1. Drag and drop the file into Avoyd  
-### Editing Voxels, Rendering, Exporting Models
-  * See the [Avoyd online documentation](https://www.avoyd.com/avoyd-voxel-editor-documentation.html)  
+How to open files in Avoyd, edit the voxel models - including using them as brushes - explore, render and export them.
+### Opening a Voxel Model
+To open an Avoyd World file, follow the steps below:
+1. [Download Avoyd](https://www.avoyd.com) - _currently Windows only_.  
+1. Install and open Avoyd.  
+1. Download a voxel file from the repository and save it on your PC.  
+1. Drag and drop the file into Avoyd.  
+### Editing Voxels, Exploring, Rendering and Exporting Models
+The [Avoyd online documentation](https://www.avoyd.com/avoyd-voxel-editor-documentation.html) covers the following subjects and more:  
+  * [Using the Edit Tool tutorial](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#Tutorial)
+  * [Exploring voxel models using cameras](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#Cameras)
+  * [Creating high quality CPU renders](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#Render)
+  * [Exporting to mesh for Blender 3D, Unity 3D and Unreal Engine](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#Export)
 ### Adding a Model to an Existing World with 'Load World as Paste Brush'
-1. In the Voxel Editor: open menu _File > Load World as Paste Brush..._  
-1. Select an Avoyd world file (.avwr). You'll be able to use it as a brush with the Edit Tool.  
-### File Formats Compatible with Avoyd
-  * __.AVWR__ - Avoyd World file, a compressed binary  
+Before using a model as a paste brush, you should first make sure it saved as an Avoyd world file (_.avwr_) to help speed up the operation.  
+To load a world as a paste brush, go through the following steps:
+1. Open the Voxel Editor.
+1. Open menu _File > Load World as Paste Brush..._  
+1. Browse and select an Avoyd world file (_.avwr_). 
+1. Use the world file model as a paste brush (this is part of the Edit Tool).  
+## List of file Formats Compatible with Avoyd
+  * __.AVWR__ - Avoyd World file, a compressed binary 3333file format  
   * __.VOX__ - MagicaVoxel file format - [Specification](https://github.com/ephtracy/voxel-model/blob/master/MagicaVoxel-file-format-vox.txt) - [Documentation: Importing MagicaVoxel Models Vox files into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportVox)  
   * __.MCA, .NBT__ - Minecraft Maps and Structures - [Documentation: Importing Minecraft Maps and Structures into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportMinecraftHowTo)  
-  * __.JPG, .PNG, .TGA__ - Heightmap and/or Palette - [Documentation: Heightmaps](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportHeightmap) & [Palettes import into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportColour)  
-  * __Raw 3D Binary Arrays__ - [Documentation](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportRaw3DBinaryArray)  
+  * __.JPG, .PNG, .TGA__ - Heightmaps and Palettes - [Documentation: Importing Heightmaps](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportHeightmap) & [Palettes into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportColour)  
+  * __Raw 3D Binary Arrays__ - Data visualisation - [Documentation: Importing Raw 3D Binary Arrays](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportRaw3DBinaryArray)  
 
 ## List of Voxel Models and Attributions 
 All the models in this repository are CC BY 4.0. The attribution may vary.  
@@ -89,9 +99,9 @@ To see a file licence information in Avoyd, open _View > World Properties..._
 <img alt="Metallic tree featuring a dark trunk and white foliage on a smooth surface. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Tree_Metal_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Juliette Foucaut, Enkisoftware. (CC BY 4.0)</sub>
 
 # Contributions
-If you'd like to contribute your own Avoyd voxel models, please open a _pull request (PR)_.  
-* Works licence must be [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/);  
-* Specify the attribution in the README and in the .avwr Avoyd World properties notes (_View > World Properties..._);  
+If you'd like to contribute your own Avoyd voxel models, please open a _pull request (PR)_ and follow the instructions:  
+* Works licence must be [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) or more permissive;  
+* Specify the attribution in the [READMEmd list of models](https://github.com/enkisoftware/voxel-models#list-of-voxel-models-and-attributions), and in the _.avwr_ Avoyd World properties notes (_View > World Properties..._);  
 * Use _Edit > Defragment the Octree_ before saving;  
 * Try to limit the file size to 2MB;  
 * Do not include any image file in the PR;  
@@ -103,6 +113,7 @@ These resources may require further permissions to use. Please check their indiv
 * [Vox models by @Kluchek](https://github.com/kluchek/vox-models) (CC BY 4.0)  
 * [Mini Mike's Metro Minis by @mikelovesrobots](https://github.com/mikelovesrobots/mmmm) (CC BY 4.0)  
 * [Game scenes by @ZachSoares (Akamai commission)](https://github.com/Akamai-Community/inspiring-game-scenes) (CC BY 4.0)  
+* [Spaceships and weapons by @technistguru](https://technistguru.itch.io) (CC0 and CC BY 4.0)  
 * [Vehicles by Geeksagon](https://geeksagon.itch.io) (CC0)  
 * [Subreddit r/gameassets filtered by "Voxel" flair](https://www.reddit.com/r/gameassets/?f=flair_name%3A%22Voxel%22)  
 * [OpenGameArt.org](https://opengameart.org/)  
