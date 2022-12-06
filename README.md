@@ -116,11 +116,13 @@ If you'd like to contribute your own Avoyd voxel models, please follow the instr
 # Other Voxel Resources
 These resources may require further permissions to use. Please check their individual licencing conditions.
 ### Vox Models
-* [Vox models by @Kluchek](https://github.com/kluchek/vox-models) (CC BY 4.0)  
-* [Mini Mike's Metro Minis by @mikelovesrobots](https://github.com/mikelovesrobots/mmmm) (CC BY 4.0)  
-* [Game scenes by @ZachSoares (Akamai commission)](https://github.com/Akamai-Community/inspiring-game-scenes) (CC BY 4.0)  
-* [Spaceships and weapons by @technistguru](https://technistguru.itch.io) (CC0 and CC BY 4.0)  
-* [Vehicles by Geeksagon](https://geeksagon.itch.io) (CC0)  
+* [Vox models](https://github.com/kluchek/vox-models) by @Kluchek - (CC BY 4.0)  
+* [Mini Mike's Metro Minis](https://github.com/mikelovesrobots/mmmm) by @mikelovesrobots - (CC BY 4.0)  
+* [Game scenes](https://github.com/Akamai-Community/inspiring-game-scenes) by @ZachSoares (Akamai commission) - (CC BY 4.0)  
+* [Spaceships and weapons](https://technistguru.itch.io) by @technistguru - (CC0 and CC BY 4.0)  
+* [Vehicles](https://geeksagon.itch.io) by Geeksagon - (CC0)  
+* [Dungeon set](https://austin-io.itch.io/voxel-dungeon-set) by @austin-io  
+* [Dungeon assets](https://felixstrefter.itch.io/dungeon-voxel-assets) by Felix Strefter - (CC0)  
 * [Subreddit r/gameassets filtered by "Voxel" flair](https://www.reddit.com/r/gameassets/?f=flair_name%3A%22Voxel%22)  
 * [OpenGameArt.org](https://opengameart.org/)  
 ### Minecraft Worlds
@@ -128,12 +130,15 @@ These resources may require further permissions to use. Please check their indiv
 * [Vokselia/Voxelia](http://vokselia.com)  
 * [DREHMAL: PRIMORDIAL](https://www.planetminecraft.com/project/drehmal-v2-prim-rdial-12k-x-12k-survival-adventure-map/)  
 * [Greenfield City](https://www.planetminecraft.com/project/greenfield---new-life-size-city-project/)  
-### Heightmaps and heightmap generation tools
-* [www.motionforgepictures.com/height-maps](https://www.motionforgepictures.com/height-maps) provided for free under a creative commons no attribution licence  
-* [commons.wikimedia.org/wiki/File:Hand_made_terrain_heightmap.png](https://commons.wikimedia.org/wiki/File:Hand_made_terrain_heightmap.png) (CC0 1.0)  
+### Heightmaps
+* [www.motionforgepictures.com/height-maps](https://www.motionforgepictures.com/height-maps) - provided for free under a creative commons no attribution licence  
+* [commons.wikimedia.org/wiki/File:Hand_made_terrain_heightmap.png](https://commons.wikimedia.org/wiki/File:Hand_made_terrain_heightmap.png) - (CC0 1.0)  
 * [tangrams.github.io/heightmapper](https://tangrams.github.io/heightmapper) earth map by [www.mapzen.com/blog/tangram-heightmapper](https://www.mapzen.com/blog/tangram-heightmapper)  
+### Heightmap Generation Tools
+* [L3DT](http://bundysoft.com/L3DT/) by Aaron Torpy  
+* [Scape](https://www.decarpentier.nl/scape) by @gdecarpentier  
 ### Palettes
-* [Lospec Palette List](https://lospec.com/palette-list)
+* [Lospec Palette List](https://lospec.com/palette-list)  
 
 # Credits
 Models and repository - [Juliette Foucaut (Enkisoftware)](http://www.enkisoftware.com/about.html#juliette) - [@juliettef](https://github.com/juliettef)  
