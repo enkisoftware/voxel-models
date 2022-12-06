@@ -139,6 +139,10 @@ These resources may require further permissions to use. Please check their indiv
 * [Scape](https://www.decarpentier.nl/scape) by @gdecarpentier  
 ### Palettes
 * [Lospec Palette List](https://lospec.com/palette-list)  
+* [Google Art Palette Experiment](https://artsexperiments.withgoogle.com/artpalette/)  
+### Palette Generation Tools
+* [Super Color Palette](https://supercolorpalette.com/)  
+* [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)  
 
 # Credits
 Models and repository - [Juliette Foucaut (Enkisoftware)](http://www.enkisoftware.com/about.html#juliette) - [@juliettef](https://github.com/juliettef)  
