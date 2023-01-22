@@ -33,6 +33,7 @@ To load a world as a paste brush, go through the following steps:
   * __.MCA, .NBT__ - Minecraft Maps and Structures - [Documentation: Importing Minecraft Maps and Structures into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportMinecraftHowTo)  
   * __.JPG, .PNG, .TGA__ - Heightmaps and Palettes - [Documentation: Importing Heightmaps](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportHeightmap) & [Palettes into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportColour)  
   * __Raw 3D Binary Arrays__ - Data visualisation - [Documentation: Importing Raw 3D Binary Arrays](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportRaw3DBinaryArray)  
+  * __.OBJ + Voxeliser__ - Use VoxTool to voxelise 3D meshes to use in Avoyd - [Documentation: Voxelizing 3D polygon meshes and textures for use in Avoyd with VoxTool and MagicaVoxel](https://www.enkisoftware.com/t/6297248447070208)
 
 ## List of Voxel Models and Attributions 
 All the models in this repository are CC BY 4.0. The attribution may vary.  
@@ -143,6 +144,10 @@ These resources may require further permissions to use. Please check their indiv
 ### Palette Generation Tools
 * [Super Color Palette](https://supercolorpalette.com/)  
 * [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)  
+### Images and 3D models
+* [Smithonian Open Access](https://www.si.edu/openaccess/) (CC0)  
+### Voxeliser
+* [VoxTool](https://teardowngame.com/voxtool/) - how to [convert .OBJ to .VOX and to Avoyd .AVWR](https://www.enkisoftware.com/t/6297248447070208)
 
 # Credits
 Models and repository - [Juliette Foucaut (Enkisoftware)](http://www.enkisoftware.com/about.html#juliette) - [@juliettef](https://github.com/juliettef)  
