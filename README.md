@@ -133,6 +133,8 @@ These resources may require further permissions to use. Please check their indiv
 * [Greenfield City](https://www.planetminecraft.com/project/greenfield---new-life-size-city-project/)  
 ### Heightmaps
 * [www.motionforgepictures.com/height-maps](https://www.motionforgepictures.com/height-maps) - provided for free under a creative commons no attribution licence  
+* [ambientcg.com Terrains](https://ambientcg.com/list?type=Terrain) and [PBR Materials displacement](https://ambientcg.com/list?type=Material) - (CC0 1.0)  
+  * _How to use [GIMP to combine a colour file with displacement in the alpha channel](https://www.reddit.com/r/VoxelGameDev/comments/110mbhx/free_voxel_assets_ccby40_or_more_permissive/#:~:text=use%20GIMP%20to%20combine%20the%20colour%20file%20with%20the%20displacement%20in%20the%20alpha%20channel) to import a [coloured heightmap into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportHeightmap)_
 * [commons.wikimedia.org/wiki/File:Hand_made_terrain_heightmap.png](https://commons.wikimedia.org/wiki/File:Hand_made_terrain_heightmap.png) - (CC0 1.0)  
 * [tangrams.github.io/heightmapper](https://tangrams.github.io/heightmapper) earth map by [www.mapzen.com/blog/tangram-heightmapper](https://www.mapzen.com/blog/tangram-heightmapper)  
 ### Heightmap Generation Tools
@@ -147,8 +149,10 @@ These resources may require further permissions to use. Please check their indiv
 ### Images and 3D models
 * [Smithonian Open Access](https://www.si.edu/openaccess/) (CC0)  
 ### Voxeliser
-* [VoxTool](https://teardowngame.com/voxtool/) - how to [convert .OBJ to .VOX and to Avoyd .AVWR](https://www.enkisoftware.com/t/6297248447070208)
+* [VoxTool](https://teardowngame.com/voxtool/)  
+  * _How to [convert .OBJ to .VOX and to Avoyd .AVWR](https://www.enkisoftware.com/t/6297248447070208)_
 
 # Credits
 Models and repository - [Juliette Foucaut (Enkisoftware)](http://www.enkisoftware.com/about.html#juliette) - [@juliettef](https://github.com/juliettef)  
 Models - [Rebecca Michalak](https://www.artstation.com/remichalak)  
+Suggestion to add link to ambientcg.com - David Williams - @DavidWilliams81  
