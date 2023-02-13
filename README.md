@@ -134,7 +134,7 @@ These resources may require further permissions to use. Please check their indiv
 ### Heightmaps
 * [www.motionforgepictures.com/height-maps](https://www.motionforgepictures.com/height-maps) - provided for free under a creative commons no attribution licence  
 * [ambientcg.com Terrains](https://ambientcg.com/list?type=Terrain) and [PBR Materials displacement](https://ambientcg.com/list?type=Material) - (CC0 1.0)  
-  * _How to use [GIMP to combine a colour file with displacement in the alpha channel](https://www.reddit.com/r/VoxelGameDev/comments/110mbhx/free_voxel_assets_ccby40_or_more_permissive/#:~:text=use%20GIMP%20to%20combine%20the%20colour%20file%20with%20the%20displacement%20in%20the%20alpha%20channel) to import a [coloured heightmap into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportHeightmap)_
+  * _How to use [GIMP to combine a colour file with displacement in the alpha channel](https://www.reddit.com/r/GIMP/comments/19cjub/pasting_into_an_alpha_channel/ikda6ku/) to import a [coloured heightmap into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportHeightmap)_
 * [commons.wikimedia.org/wiki/File:Hand_made_terrain_heightmap.png](https://commons.wikimedia.org/wiki/File:Hand_made_terrain_heightmap.png) - (CC0 1.0)  
 * [tangrams.github.io/heightmapper](https://tangrams.github.io/heightmapper) earth map by [www.mapzen.com/blog/tangram-heightmapper](https://www.mapzen.com/blog/tangram-heightmapper)  
 ### Heightmap Generation Tools
