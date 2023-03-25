@@ -2,32 +2,43 @@ Support the development of Avoyd through [GitHub Sponsors](https://github.com/sp
 
 [<img src="https://img.shields.io/static/v1?logo=github&label=Github&message=Sponsor&color=#ea4aaa" width="200"/>](https://github.com/sponsors/dougbinks)    [<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="Become a Patron" width="150"/>](https://www.patreon.com/enkisoftware)  
 
+
 # Voxel Models
+
 Free voxel models suitable for use in [Avoyd Voxel Editor](https://www.avoyd.com) for creating voxel art, export to 3D mesh etc.  
 All downloadable assets are licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
 
 ## Voxel Models in Avoyd
+
 How to open files in Avoyd, edit the voxel models - including using them as brushes - explore, render and export them.
+
 ### Opening a Voxel Model
+
 To open an Avoyd World file, follow the steps below:
 1. [Download Avoyd](https://www.avoyd.com) - _currently Windows only_.  
 1. Install and open Avoyd.  
 1. Download a voxel file from the repository and save it on your PC.  
 1. Drag and drop the file into Avoyd.  
+
 ### Editing Voxels, Exploring, Rendering and Exporting Models
+
 The [Avoyd online documentation](https://www.avoyd.com/avoyd-voxel-editor-documentation.html) covers the following subjects and more:  
   * [Using the Edit Tool tutorial](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#Tutorial)
   * [Exploring voxel models using cameras](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#Cameras)
   * [Creating high quality CPU renders](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#Render)
   * [Exporting to mesh for Blender 3D, Unity 3D and Unreal Engine](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#Export)
+
 ### Adding a Model to an Existing World with 'Load World as Paste Brush'
+
 Before using a model as a paste brush, you should first make sure it saved as an Avoyd world file (_.avwr_) to help speed up the operation.  
 To load a world as a paste brush, go through the following steps:
 1. Open the Voxel Editor.
 1. Open menu _File > Load World as Paste Brush..._  
 1. Browse and select an Avoyd world file (_.avwr_). 
 1. Use the world file model as a paste brush. (The paste operation is part of the Edit Tool.)  
+
 ## List of file Formats Compatible with Avoyd
+
   * __.AVWR__ - Avoyd World file, a compressed binary file format  
   * __.VOX__ - MagicaVoxel file format - [Specification](https://github.com/ephtracy/voxel-model/blob/master/MagicaVoxel-file-format-vox.txt) - [Documentation: Importing MagicaVoxel Models Vox files into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportVox)  
   * __.MCA, .NBT__ - Minecraft Maps and Structures - [Documentation: Importing Minecraft Maps and Structures into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportMinecraftHowTo)  
@@ -36,6 +47,7 @@ To load a world as a paste brush, go through the following steps:
   * __.OBJ + Voxeliser__ - Use VoxTool to voxelise 3D meshes to use in Avoyd - [Documentation: Voxelizing 3D polygon meshes and textures for use in Avoyd with VoxTool and MagicaVoxel](https://www.enkisoftware.com/t/6297248447070208)
 
 ## List of Voxel Models and Attributions 
+
 All the models in this repository are CC BY 4.0. The attribution may vary.  
 To see a file licence information in Avoyd, open _View > World Properties..._
 
@@ -99,7 +111,9 @@ To see a file licence information in Avoyd, open _View > World Properties..._
 ### [Tree_Metal.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Tree_Metal.avwr)
 <img alt="Metallic tree featuring a dark trunk and white foliage on a smooth surface. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Tree_Metal_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Juliette Foucaut, Enkisoftware. (CC BY 4.0)</sub>
 
+
 # Contributions
+
 If you'd like to contribute your own Avoyd voxel models, please follow the instructions:  
 * **The work licence must be [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) or more permissive.**  
 * Avoyd world file (_.avwr_) configuration:
@@ -114,45 +128,74 @@ If you'd like to contribute your own Avoyd voxel models, please follow the instr
     * Do not include any image file.  
     * Optional - include a __link__ (with alt text) to a screenshot or a render of your model.  
 
+
 # Other Voxel Resources
+
 These resources may require further permissions to use. Please check their individual licencing conditions.
-### Vox Models
+
+## Vox Models
+### Assets
 * [Vox models](https://github.com/kluchek/vox-models) by @Kluchek - (CC BY 4.0)  
 * [Mini Mike's Metro Minis](https://github.com/mikelovesrobots/mmmm) by @mikelovesrobots - (CC BY 4.0)  
 * [Game scenes](https://github.com/Akamai-Community/inspiring-game-scenes) by @ZachSoares (Akamai commission) - (CC BY 4.0)  
 * [Spaceships and weapons](https://technistguru.itch.io) by @technistguru - (CC0 and CC BY 4.0)  
 * [Vehicles](https://geeksagon.itch.io) by Geeksagon - (CC0)  
-* [Dungeon set](https://austin-io.itch.io/voxel-dungeon-set) by @austin-io  
+* [Dungeon set](https://austin-io.itch.io/voxel-dungeon-set) by Austin-IO  
 * [Dungeon assets](https://felixstrefter.itch.io/dungeon-voxel-assets) by Felix Strefter - (CC0)  
 * [Subreddit r/gameassets filtered by "Voxel" flair](https://www.reddit.com/r/gameassets/?f=flair_name%3A%22Voxel%22)  
 * [OpenGameArt.org](https://opengameart.org/)  
-### Minecraft Worlds
+
+## Minecraft Maps
+### Assets
 * [Mattupolis by mattuFIN](https://www.planetminecraft.com/project/mattupolis-large-modern-city-project/)  
 * [Vokselia/Voxelia](http://vokselia.com)  
 * [DREHMAL: PRIMORDIAL](https://www.planetminecraft.com/project/drehmal-v2-prim-rdial-12k-x-12k-survival-adventure-map/)  
 * [Greenfield City](https://www.planetminecraft.com/project/greenfield---new-life-size-city-project/)  
-### Heightmaps
+### Generators
+* [WorldPainter](https://www.worldpainter.net) by pepsoft.org  
+
+## Heightmaps
+### Assets
 * [www.motionforgepictures.com/height-maps](https://www.motionforgepictures.com/height-maps) - provided for free under a creative commons no attribution licence  
 * [ambientcg.com Terrains](https://ambientcg.com/list?type=Terrain) and [PBR Materials displacement](https://ambientcg.com/list?type=Material) - (CC0 1.0)  
   * _How to use [GIMP to combine a colour file with displacement in the alpha channel](https://www.reddit.com/r/GIMP/comments/19cjub/pasting_into_an_alpha_channel/ikda6ku/) to import a [coloured heightmap into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportHeightmap)_
 * [commons.wikimedia.org/wiki/File:Hand_made_terrain_heightmap.png](https://commons.wikimedia.org/wiki/File:Hand_made_terrain_heightmap.png) - (CC0 1.0)  
 * [tangrams.github.io/heightmapper](https://tangrams.github.io/heightmapper) earth map by [www.mapzen.com/blog/tangram-heightmapper](https://www.mapzen.com/blog/tangram-heightmapper)  
-### Heightmap Generation Tools
-* [L3DT](http://bundysoft.com/L3DT/) by Aaron Torpy  
-* [Scape](https://www.decarpentier.nl/scape) by @gdecarpentier  
-### Palettes
+### Generators
+* [L3DT](http://bundysoft.com/L3DT) by Aaron Torpy  
+* [Scape](https://www.decarpentier.nl/scape) by Giliam de Carpentier  
+* [WorldPainter](https://www.worldpainter.net) by pepsoft.org  
+
+## Colour Palettes
+### Assets
 * [Lospec Palette List](https://lospec.com/palette-list)  
-* [Google Art Palette Experiment](https://artsexperiments.withgoogle.com/artpalette/)  
-### Palette Generation Tools
+### Generators
 * [Super Color Palette](https://supercolorpalette.com/)  
 * [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)  
-### Images and 3D models
+* [Google Art Palette Experiment](https://artsexperiments.withgoogle.com/artpalette/)  
+
+## Images and 3D models
+### Assets
+* [The Base Mesh](https://thebasemesh.com) (CC0)  
 * [Smithonian Open Access](https://www.si.edu/openaccess/) (CC0)  
-### Voxeliser
-* [VoxTool](https://teardowngame.com/voxtool/)  
-  * _How to [convert .OBJ to .VOX and to Avoyd .AVWR](https://www.enkisoftware.com/t/6297248447070208)_
+* [HDRMAPS](https://hdrmaps.com/freebies/) HDRI maps and 3D scans  
+
+## Voxelisers
+Voxelisers convert 3D models to the vox format so you can import them into your voxel editor.  
+* [MagicaVoxel](https://ephtracy.github.io) by [@ephtracy](https://github.com/ephtracy) for textureless obj files  
+  How to voxelise:  
+    * Open MagicaVoxel and delete the default cube.  
+    * Increase the scene size to the voxel resolution you want for the 3D model (maximum 256x256x256).  
+    * Drag and drop the .obj file into MagicaVoxel.  
+    * Save the the .vox file.  
+* [VoxTool](https://teardowngame.com/voxtool/) for textured obj files  
+    * How to use [VoxTool to convert .OBJ to MagicaVoxel .VOX and to Avoyd .AVWR](https://www.enkisoftware.com/t/6297248447070208)  
+* [FileToVox and MeshToVox](https://github.com/Zarbuz/FileToVox) by Nicolas Perrier - [@Zarbuz](https://github.com/Zarbuz)  
+* [Vengi VoxConvert](https://mgerhardy.github.io/vengi) by Martin Gerhardy - [@mgerhardy](https://github.com/mgerhardy/)
+
 
 # Credits
+
 Models and repository - [Juliette Foucaut (Enkisoftware)](http://www.enkisoftware.com/about.html#juliette) - [@juliettef](https://github.com/juliettef)  
 Models - [Rebecca Michalak](https://www.artstation.com/remichalak)  
-Suggestion to add link to ambientcg.com - David Williams - @DavidWilliams81  
+Suggestion to add link to ambientcg.com - David Williams - [@DavidWilliams81](https://github.com/davidwilliams81)  
