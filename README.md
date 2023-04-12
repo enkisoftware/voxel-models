@@ -15,7 +15,7 @@ How to open files in Avoyd, edit the voxel models - including using them as brus
 ### Opening a Voxel Model
 
 To open an Avoyd World file, follow the steps below:
-1. [Download Avoyd](https://www.avoyd.com) - _currently Windows only_.  
+1. [Download Avoyd](https://www.enkisoftware.com/products) - _currently Windows only_.  
 1. Install and open Avoyd.  
 1. Download a voxel file from the repository and save it on your PC.  
 1. Drag and drop the file into Avoyd.  
@@ -136,8 +136,8 @@ These resources may require further permissions to use. Please check their indiv
 ## Vox Models
 ### Assets
 * [Vox models](https://github.com/kluchek/vox-models) by @Kluchek - (CC BY 4.0)  
-* [Mini Mike's Metro Minis](https://github.com/mikelovesrobots/mmmm) by @mikelovesrobots - (CC BY 4.0)  
-* [Game scenes](https://github.com/Akamai-Community/inspiring-game-scenes) by @ZachSoares (Akamai commission) - (CC BY 4.0)  
+* [Mini Mike's Metro Minis](https://github.com/mikelovesrobots/mmmm) by Mike Judge - [@mikelovesrobots](https://github.com/mikelovesrobots) - (CC BY 4.0)  
+* [Game scenes](https://github.com/Akamai-Community/inspiring-game-scenes) (Akamai commission) by Zach Soares - (CC BY 4.0)  
 * [Spaceships and weapons](https://technistguru.itch.io) by @technistguru - (CC0 and CC BY 4.0)  
 * [Vehicles](https://geeksagon.itch.io) by Geeksagon - (CC0)  
 * [Dungeon set](https://austin-io.itch.io/voxel-dungeon-set) by Austin-IO  
@@ -152,7 +152,7 @@ These resources may require further permissions to use. Please check their indiv
 * [DREHMAL: PRIMORDIAL](https://www.planetminecraft.com/project/drehmal-v2-prim-rdial-12k-x-12k-survival-adventure-map/)  
 * [Greenfield City](https://www.planetminecraft.com/project/greenfield---new-life-size-city-project/)  
 ### Generators
-* [WorldPainter](https://www.worldpainter.net) by pepsoft.org  
+* [WorldPainter](https://www.worldpainter.net) by [@Captain-Chaos](https://github.com/Captain-Chaos/WorldPainter)  
 
 ## Heightmaps
 ### Assets
@@ -164,7 +164,7 @@ These resources may require further permissions to use. Please check their indiv
 ### Generators
 * [L3DT](http://bundysoft.com/L3DT) by Aaron Torpy  
 * [Scape](https://www.decarpentier.nl/scape) by Giliam de Carpentier  
-* [WorldPainter](https://www.worldpainter.net) by pepsoft.org  
+* [WorldPainter](https://www.worldpainter.net) by [@Captain-Chaos](https://github.com/Captain-Chaos/WorldPainter)  
 
 ## Colour Palettes
 ### Assets
@@ -187,7 +187,8 @@ Voxelisers convert 3D models to the vox format so you can import them into your 
     * Open MagicaVoxel and delete the default cube.  
     * Increase the scene size to the voxel resolution you want for the 3D model (maximum 256x256x256).  
     * Drag and drop the .obj file into MagicaVoxel.  
-    * Save the the .vox file.  
+    * Save the .vox file.  
+    * Drag and drop the .vox file into Avoyd.
 * [VoxTool](https://teardowngame.com/voxtool/) for textured obj files  
     * How to use [VoxTool to convert .OBJ to MagicaVoxel .VOX and to Avoyd .AVWR](https://www.enkisoftware.com/t/6297248447070208)  
 * [FileToVox and MeshToVox](https://github.com/Zarbuz/FileToVox) by Nicolas Perrier - [@Zarbuz](https://github.com/Zarbuz)  
