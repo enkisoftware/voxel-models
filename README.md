@@ -39,12 +39,12 @@ To load a world as a paste brush, go through the following steps:
 
 ## List of file Formats Compatible with Avoyd
 
-  * __.AVWR__ - Avoyd World file, a compressed binary file format  
-  * __.VOX__ - MagicaVoxel file format - [Specification](https://github.com/ephtracy/voxel-model/blob/master/MagicaVoxel-file-format-vox.txt) - [Documentation: Importing MagicaVoxel Models Vox files into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportVox)  
-  * __.MCA, .NBT__ - Minecraft Maps and Structures - [Documentation: Importing Minecraft Maps and Structures into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportMinecraftHowTo)  
-  * __.JPG, .PNG, .TGA__ - Heightmaps and Palettes - [Documentation: Importing Heightmaps](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportHeightmap) & [Palettes into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportColour)  
+  * __.avwr__ - Avoyd World file, a compressed binary file format  
+  * __.vox__ - MagicaVoxel file format - [Specification](https://github.com/ephtracy/voxel-model/blob/master/MagicaVoxel-file-format-vox.txt) - [Documentation: Importing MagicaVoxel Models Vox files into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportVox)  
+  * __.mca, .nbt__ - Minecraft Maps and Structures - [Documentation: Importing Minecraft Maps and Structures into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportMinecraftHowTo)  
+  * __.jpg, .png, .tga__ - Heightmaps and Palettes - [Documentation: Importing Heightmaps](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportHeightmap) & [Palettes into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportColour)  
   * __Raw 3D Binary Arrays__ - Data visualisation - [Documentation: Importing Raw 3D Binary Arrays](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportRaw3DBinaryArray)  
-  * __.OBJ + Voxeliser__ - Use VoxTool to voxelise 3D meshes to use in Avoyd - [Documentation: Voxelizing 3D polygon meshes and textures for use in Avoyd with VoxTool and MagicaVoxel](https://www.enkisoftware.com/t/6297248447070208)
+  * __.obj__ - use a [voxeliser](#voxelisers) to convert to _.vox_ - [Documentation: Voxelizing 3D polygon meshes and textures for use in Avoyd with VoxTool and MagicaVoxel](https://www.enkisoftware.com/t/6297248447070208)
 
 ## List of Voxel Models and Attributions 
 
@@ -130,10 +130,11 @@ If you'd like to contribute your own Avoyd voxel models, please follow the instr
 
 
 # Other Voxel Resources
-
-These resources may require further permissions to use. Please check their individual licencing conditions.
+You can use all these assets and generated outputs in Avoyd.  
+They may require further permissions to use. Please check their individual licencing conditions.
 
 ## Vox Models
+You can [open any _.vox_ file in Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportVox).
 ### Assets
 * [Vox models](https://github.com/kluchek/vox-models) by @Kluchek - (CC BY 4.0)  
 * [Mini Mike's Metro Minis](https://github.com/mikelovesrobots/mmmm) by Mike Judge - [@mikelovesrobots](https://github.com/mikelovesrobots) - (CC BY 4.0)  
@@ -146,6 +147,7 @@ These resources may require further permissions to use. Please check their indiv
 * [OpenGameArt.org](https://opengameart.org/)  
 
 ## Minecraft Maps
+Avoyd imports [.mca and .nbt files](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportMinecraft).
 ### Assets
 * [Mattupolis by mattuFIN](https://www.planetminecraft.com/project/mattupolis-large-modern-city-project/)  
 * [Vokselia/Voxelia](http://vokselia.com)  
@@ -155,6 +157,7 @@ These resources may require further permissions to use. Please check their indiv
 * [WorldPainter](https://www.worldpainter.net) by [@Captain-Chaos](https://github.com/Captain-Chaos/WorldPainter)  
 
 ## Heightmaps
+In Avoyd, use [import images as heightmap](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportHeightmap). The height information can be stored in the alpha channel. 
 ### Assets
 * [www.motionforgepictures.com/height-maps](https://www.motionforgepictures.com/height-maps) - provided for free under a creative commons no attribution licence  
 * [ambientcg.com Terrains](https://ambientcg.com/list?type=Terrain) and [PBR Materials displacement](https://ambientcg.com/list?type=Material) - (CC0 1.0)  
@@ -167,6 +170,7 @@ These resources may require further permissions to use. Please check their indiv
 * [WorldPainter](https://www.worldpainter.net) by [@Captain-Chaos](https://github.com/Captain-Chaos/WorldPainter)  
 
 ## Colour Palettes
+Import [palettes as groups of materials in Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportColour).
 ### Assets
 * [Lospec Palette List](https://lospec.com/palette-list)  
 ### Generators
@@ -175,22 +179,23 @@ These resources may require further permissions to use. Please check their indiv
 * [Google Art Palette Experiment](https://artsexperiments.withgoogle.com/artpalette/)  
 
 ## Images and 3D models
+To import an image in Avoyd as a plane, use _Import as Heightmap_, select _Palettise Image Colours_ and set the _Maximum Height_ to _1_.  
+To import a 3D mesh model, you need to [voxelise](#voxelisers) it first, then import the _.vox_ file in Avoyd.  
 ### Assets
 * [The Base Mesh](https://thebasemesh.com) (CC0)  
 * [Smithonian Open Access](https://www.si.edu/openaccess/) (CC0)  
 * [HDRMAPS](https://hdrmaps.com/freebies/) HDRI maps and 3D scans  
-
 ## Voxelisers
-Voxelisers convert 3D models to the vox format so you can import them into your voxel editor.  
-* [MagicaVoxel](https://ephtracy.github.io) by [@ephtracy](https://github.com/ephtracy) for textureless obj files  
+Voxelisers convert 3D models to the _.vox_ format.  
+* [MagicaVoxel](https://ephtracy.github.io) by [@ephtracy](https://github.com/ephtracy) for textureless _.obj_ files  
   How to voxelise:  
     * Open MagicaVoxel and delete the default cube.  
     * Increase the scene size to the voxel resolution you want for the 3D model (maximum 256x256x256).  
-    * Drag and drop the .obj file into MagicaVoxel.  
-    * Save the .vox file.  
-    * Drag and drop the .vox file into Avoyd.
-* [VoxTool](https://teardowngame.com/voxtool/) for textured obj files  
-    * How to use [VoxTool to convert .OBJ to MagicaVoxel .VOX and to Avoyd .AVWR](https://www.enkisoftware.com/t/6297248447070208)  
+    * Drag and drop the _.obj_ file into MagicaVoxel.  
+    * Save the _.vox_ file.  
+    * Drag and drop the _.vox_ file into Avoyd.
+* [VoxTool](https://teardowngame.com/voxtool/) for textured _.obj_ files  
+    * How to use [VoxTool to convert _.obj_ to MagicaVoxel _.vox_ and to Avoyd _.avwr_](https://www.enkisoftware.com/t/6297248447070208)  
 * [FileToVox and MeshToVox](https://github.com/Zarbuz/FileToVox) by Nicolas Perrier - [@Zarbuz](https://github.com/Zarbuz)  
 * [Vengi VoxConvert](https://mgerhardy.github.io/vengi) by Martin Gerhardy - [@mgerhardy](https://github.com/mgerhardy/)
 
