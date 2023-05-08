@@ -111,6 +111,18 @@ To see a file licence information in Avoyd, open _View > World Properties..._
 ### [Tree_Metal.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Tree_Metal.avwr)
 <img alt="Metallic tree featuring a dark trunk and white foliage on a smooth surface. Voxel model created and rendered in Avoyd" src="https://github.com/enkisoftware/voxel-models-media/blob/main/Avoyd_2022-09_Tree_Metal_PathTraced.jpg?raw=true" width="200" /> <sub>Copyright 2022 Juliette Foucaut, Enkisoftware. (CC BY 4.0)</sub>
 
+### Templates and Maps for Idu
+
+To create maps for the plant growing game [_Idu_](https://idu.cyberplant.ee) follow the Avoyd [modding guide for Idu](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ExportVoxIdu) using the following files:  
+* World Template: empty world with the Idu materials already set up.  
+    * Avoyd world: [Idu_Template.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Idu_Template.avwr) - (CC0)  
+    * MagicaVoxel model: [Idu_Template.vox](https://github.com/enkisoftware/voxel-models/blob/main/Idu_Template.vox) - (CC0)  
+* Material Template: load in any Avoyd world to overwrite the materials Ids with Idu materials.  
+    * [Idu_Materials.avmt](https://github.com/enkisoftware/voxel-models/blob/main/Idu_Materials.avmt) - (CC0)  
+* Example Avoyd worlds ready to [export to _.vox_ and load into _Idu_](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ExportVoxIdu).
+    * [Idu_Stilt_House.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Idu_Stilt_House.avwr) (modified [House_Island](#house_islandavwr)) - Copyright 2023 Enkisoftware. (CC BY 4.0)
+    * [Idu_Tower.avwr](https://github.com/enkisoftware/voxel-models/blob/main/Idu_Tower.avwr) (scaled down [Tower](#toweravwr)) - Copyright 2023 Enkisoftware. (CC BY 4.0)  
+
 
 # Contributions
 

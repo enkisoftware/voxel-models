@@ -1,0 +1,97 @@
+VoxelMaterialArray =	{
+	materials =	[{
+			Name =	"Idu"
+			Type =	1
+			PaletteSize =	{
+				x =	8
+				y =	1
+			}
+			VoxMaterialParams =	[{
+					r =	0.886275
+					g =	0.886275
+					b =	0.815686
+					metallic =	0
+					smooth =	0.200000
+					emissive =	0
+					materialTransparency =	{
+						surfaceTransmission =	0
+						absorptionLength =	99.990463
+						scatterLength =	1048576
+						indexOfRefraction =	1.500000
+						phase =	0
+					}
+					name =	"Concrete"
+				}, {
+					r =	0.650980
+					g =	0.737255
+					b =	0.607843
+					metallic =	0
+					smooth =	0.200000
+					emissive =	0
+					materialTransparency =	{
+						surfaceTransmission =	0
+						absorptionLength =	99.990463
+						scatterLength =	1048576
+						indexOfRefraction =	1.500000
+						phase =	0
+					}
+					name =	"ConcreteOrnate"
+				}, {
+					r =	0.764706
+					g =	0.666667
+					b =	0.470588
+					metallic =	0
+					smooth =	0
+					emissive =	0
+					materialTransparency =	{
+						surfaceTransmission =	0
+						absorptionLength =	100
+						scatterLength =	1048576
+						indexOfRefraction =	1.500000
+						phase =	0
+					}
+					name =	"Soil"
+				}, {
+					r =	0.784314
+					g =	0.486275
+					b =	0.137255
+					metallic =	0.800000
+					smooth =	0.500000
+					emissive =	0
+					materialTransparency =	{
+						surfaceTransmission =	0
+						absorptionLength =	100
+						scatterLength =	1048576
+						indexOfRefraction =	1.500000
+						phase =	0
+					}
+					name =	"SeedBox"
+				}, {
+					r =	0.588235
+					g =	0.588235
+					b =	0.588235
+					metallic =	0.900000
+					smooth =	0.800000
+					emissive =	0
+					materialTransparency =	{
+						surfaceTransmission =	0
+						absorptionLength =	100
+						scatterLength =	1048576
+						indexOfRefraction =	1.500000
+						phase =	0
+					}
+					name =	"Metal"
+				}]
+			Strength =	1
+		}]
+	palette =	[]
+	palettes =	[{
+			name =	"Default"
+			palette =	[0, 1, 2, 3, 4]
+			width =	8
+		}]
+	activePaletteEditToolShapes =	0
+	activePaletteEditToolProcedural =	0
+	activePaletteEditToolModifierRandomise =	0
+	activePaletteMaterials =	0
+}
