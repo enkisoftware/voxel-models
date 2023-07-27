@@ -155,6 +155,7 @@ You can [open any _.vox_ file in Avoyd](https://www.avoyd.com/avoyd-voxel-editor
 * [Vehicles](https://geeksagon.itch.io) by Geeksagon - (CC0)  
 * [Dungeon set](https://austin-io.itch.io/voxel-dungeon-set) by Austin-IO  
 * [Dungeon assets](https://felixstrefter.itch.io/dungeon-voxel-assets) by Felix Strefter - (CC0)  
+* [Oasis](https://github.com/Phyronnaz/VoxelAssets/tree/master/Oasis) by Hard Cover - (CC0)  
 * [Subreddit r/gameassets filtered by "Voxel" flair](https://www.reddit.com/r/gameassets/?f=flair_name%3A%22Voxel%22)  
 * [OpenGameArt.org](https://opengameart.org/)  
 
@@ -217,3 +218,4 @@ Voxelisers convert 3D models to the _.vox_ format.
 Models and repository - [Juliette Foucaut (Enkisoftware)](http://www.enkisoftware.com/about.html#juliette) - [@juliettef](https://github.com/juliettef)  
 Models - [Rebecca Michalak](https://www.artstation.com/remichalak)  
 Suggestion to add link to ambientcg.com - David Williams - [@DavidWilliams81](https://github.com/davidwilliams81)  
+Suggestion to add link to Oasis model - Martin Gerhardy - [@mgerhardy](https://github.com/mgerhardy/)  
