@@ -156,6 +156,7 @@ You can [open any _.vox_ file in Avoyd](https://www.avoyd.com/avoyd-voxel-editor
 * [Dungeon set](https://austin-io.itch.io/voxel-dungeon-set) by Austin-IO  
 * [Dungeon assets](https://felixstrefter.itch.io/dungeon-voxel-assets) by Felix Strefter - (CC0)  
 * [Oasis](https://github.com/Phyronnaz/VoxelAssets/tree/master/Oasis) by Hard Cover - (CC0)  
+* [Free Voxel Assets](https://gorlaks.itch.io/voxel-assets) (buildings, environment, food, tools) by Gorlaks - (CC BY)  
 * [Subreddit r/gameassets filtered by "Voxel" flair](https://www.reddit.com/r/gameassets/?f=flair_name%3A%22Voxel%22)  
 * [OpenGameArt.org](https://opengameart.org/)  
 
@@ -191,13 +192,15 @@ Import [palettes as groups of materials in Avoyd](https://www.avoyd.com/avoyd-vo
 * [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)  
 * [Google Art Palette Experiment](https://artsexperiments.withgoogle.com/artpalette/)  
 
-## Images and 3D models
+## Images, HDRIs and 3D models
 To import an image in Avoyd as a plane, use _Import as Heightmap_, select _Palettise Image Colours_ and set the _Maximum Height_ to _1_.  
 To import a 3D mesh model, you need to [voxelise](#voxelisers) it first, then import the _.vox_ file in Avoyd.  
 ### Assets
 * [The Base Mesh](https://thebasemesh.com) (CC0)  
 * [Smithonian Open Access](https://www.si.edu/openaccess/) (CC0)  
-* [HDRMAPS](https://hdrmaps.com/freebies/) HDRI maps and 3D scans  
+* [Poly Haven](https://polyhaven.com/) HDRIs, textures and 3D models (CC0)  
+* [HDRMAPS](https://hdrmaps.com/freebies/) HDRIs and 3D scans (CC BY)  
+* [HDRI-Haven](https://hdri-haven.com/) HDRIs (CC0)  
 ## Voxelisers
 Voxelisers convert 3D models to the _.vox_ format.  
 * [MagicaVoxel](https://ephtracy.github.io) by [@ephtracy](https://github.com/ephtracy) for textureless _.obj_ files  
