@@ -35,7 +35,7 @@ The [Avoyd online documentation](https://www.avoyd.com/avoyd-voxel-editor-docume
 Before using a model as a paste brush, you should first make sure it saved as an Avoyd world file `.avwr` to help speed up the operation.  
 To load a world as a paste brush, go through the following steps:
 1. Open the `Voxel Editor`.
-1. Open menu `File > Load World as Paste Brush..`.  
+1. Open menu `File > Load World as Paste Brush`.  
 1. Browse and select an Avoyd world file `.avwr`. 
 1. Use the world file model as a paste brush. (The paste operation is part of the Edit Tool.)  
 
@@ -204,7 +204,7 @@ To import a 3D mesh model, you need to [voxelise](#voxelisers) it first, then im
 * [Smithonian Open Access](https://www.si.edu/openaccess/) Images and 3D models (CC0)  
 * [Poly Haven](https://polyhaven.com/) HDRIs, textures and 3D models (CC0)  
 * [HDRMAPS](https://hdrmaps.com/freebies/) HDRIs and 3D scans (CC BY)  
-* [HDRI-Haven](https://hdri-haven.com/) HDRIs (CC0)  
+* [ESO](https://www.eso.org/public/images/) Images and 360 panoramas (CC BY 4.0)  
 ## Voxelisers
 Voxelisers convert 3D models to the `.vox` format.  
 * [MagicaVoxel](https://ephtracy.github.io) by [@ephtracy](https://github.com/ephtracy) for textureless `.obj` files  
