@@ -218,7 +218,7 @@ Voxelisers convert 3D models to the `.vox` format.
 * [VoxTool](https://teardowngame.com/voxtool/) for textured `.obj` files  
     * How to use [VoxTool to convert `.obj` to MagicaVoxel `.vox` and to Avoyd `.avwr`](https://www.enkisoftware.com/t/6297248447070208)  
 * [FileToVox and MeshToVox](https://github.com/Zarbuz/FileToVox) by Nicolas Perrier - [@Zarbuz](https://github.com/Zarbuz)  
-* [Vengi VoxConvert](https://mgerhardy.github.io/vengi) by Martin Gerhardy - [@mgerhardy](https://github.com/mgerhardy/)
+* [Vengi VoxConvert](https://vengi-voxel.github.io/vengi/) by Martin Gerhardy - [@mgerhardy](https://github.com/mgerhardy/)
 
 
 # Credits
