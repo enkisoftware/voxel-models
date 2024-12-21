@@ -133,13 +133,14 @@ To create maps for the [plant growing game __Idu__](https://idu.cyberplant.ee), 
 If you'd like to contribute your own Avoyd voxel models, please follow the instructions:  
 * **The work licence must be [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) or more permissive.**  
 * Avoyd world file `.avwr` configuration:
-    * Specify the license and attribution in the `Notes` field in `View > World Properties`.  
-    * Orient the model along the `y` axis (+y is up).  
-    * Centre the model on origin using `Edit > Move World Centre to Origin`.  
-    * Reduce the number of Materials to be only those used in the model using the materials tools under  `Edit`.  
-    * Defragment before you save using `Edit > Defragment the Octree`.  
-    * Try to limit the file size to `2MB`.  
     * Use a short, descriptive file name.  
+    * Specify the license and attribution in the `Notes` field in `View > World Properties`.  
+    * Orient the model along the `y` axis (+y is up). *You can use the Edit Tool's Anchor to visualise the axes.*  
+    * Try to limit the file size to `2MB`. To cleanup and compress the model:
+      1. Centre the model on origin using `Edit > Move World Centre to Origin`.  
+      1. Reduce the number of Materials to be only those used in the model using `Edit > Remove Unused Materials`.  
+      1. Defragment using `Edit > Defragment the Octree`.  
+      1. Save.  
 * Open a pull request (PR)
     * Do not include any image file.  
     * Optional - include a link (with alt text) to a screenshot or a render of your model.  
@@ -176,9 +177,9 @@ Avoyd imports [.mca and .nbt files](https://www.avoyd.com/avoyd-voxel-editor-doc
 * [WorldPainter](https://www.worldpainter.net) by [@Captain-Chaos](https://github.com/Captain-Chaos/WorldPainter)  
 
 ## Heightmaps
-In Avoyd, use [import images as heightmap](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportHeightmap). The height information can be stored in the alpha channel. 
+Use [import image heightmap](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportHeightmap) in Avoyd. 
 ### Assets
-* [www.motionforgepictures.com/height-maps](https://www.motionforgepictures.com/height-maps) - provided for free under a creative commons no attribution licence  
+* [Motion Forge Pictures Landscape Height Maps](https://www.motionforgepictures.com/height-maps) (CC0 1.0)  and [16k x 16k rocky terrain](https://www.artstation.com/blogs/chrisjmitchell/8ddg/landscape-heightmap-16k-free-download) (CC BY 4.0)
 * [ambientcg.com Terrains](https://ambientcg.com/list?type=Terrain) and [PBR Materials displacement](https://ambientcg.com/list?type=Material) (CC0 1.0)  
   * _How to use [GIMP to combine a colour file with displacement in the alpha channel](https://www.reddit.com/r/GIMP/comments/19cjub/pasting_into_an_alpha_channel/ikda6ku/) to import a [coloured heightmap into Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportHeightmap)_
 * [commons.wikimedia.org/wiki/File:Hand_made_terrain_heightmap.png](https://commons.wikimedia.org/wiki/File:Hand_made_terrain_heightmap.png) (CC0 1.0)  
@@ -187,11 +188,10 @@ In Avoyd, use [import images as heightmap](https://www.avoyd.com/avoyd-voxel-edi
 * [L3DT](http://bundysoft.com/L3DT) by Aaron Torpy  
 * [Scape](https://www.decarpentier.nl/scape) by Giliam de Carpentier  
 * [WorldPainter](https://www.worldpainter.net) by [@Captain-Chaos](https://github.com/Captain-Chaos/WorldPainter)  
-
 ## Colour Palettes
-Import [palettes as groups of materials in Avoyd](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportColour).
+Import [Import image palette as materials](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportColour) in Avoyd.
 ### Assets
-* [Lospec Palette List](https://lospec.com/palette-list)  
+* [Lospec Palettes](https://lospec.com/palette-list)  
 ### Generators
 * [Super Color Palette](https://supercolorpalette.com/)  
 * [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)  
@@ -206,15 +206,16 @@ To import a 3D mesh model, you need to [voxelise](#voxelisers) it first, then im
 * [Poly Haven](https://polyhaven.com/) HDRIs, textures and 3D models (CC0)  
 * [HDRMAPS](https://hdrmaps.com/freebies/) HDRIs and 3D scans (CC BY)  
 * [ESO](https://www.eso.org/public/images/) Images and 360 panoramas (CC BY 4.0)  
+* [Unsplash](https://unsplash.com/) Photos ([permissive license](https://unsplash.com/license))
 ## Voxelisers
 Voxelisers convert 3D models to the `.vox` format.  
 * [MagicaVoxel](https://ephtracy.github.io) by [@ephtracy](https://github.com/ephtracy) for textureless `.obj` files  
   How to voxelise:  
-    * Open MagicaVoxel and delete the default cube.  
-    * Increase the scene size to the voxel resolution you want for the 3D model (maximum 256x256x256).  
-    * Drag and drop the `.obj` file into MagicaVoxel.  
-    * Save the `.vox` file.  
-    * Drag and drop the `.vox` file into Avoyd.
+    1. Open MagicaVoxel and delete the default cube.  
+    1. Increase the scene size to the voxel resolution you want for the 3D model (maximum 256x256x256).  
+    1. Drag and drop the `.obj` file into MagicaVoxel.  
+    1. Save the `.vox` file.  
+    1. Drag and drop the `.vox` file into Avoyd.
 * [VoxTool](https://teardowngame.com/voxtool/) for textured `.obj` files  
     * How to use [VoxTool to convert `.obj` to MagicaVoxel `.vox` and to Avoyd `.avwr`](https://www.enkisoftware.com/t/6297248447070208)  
 * [FileToVox and MeshToVox](https://github.com/Zarbuz/FileToVox) by Nicolas Perrier - [@Zarbuz](https://github.com/Zarbuz)  
