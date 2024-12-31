@@ -175,6 +175,7 @@ Avoyd imports [.mca and .nbt files](https://www.avoyd.com/avoyd-voxel-editor-doc
 * [Greenfield City](https://www.planetminecraft.com/project/greenfield---new-life-size-city-project/)  
 ### Generators
 * [WorldPainter](https://www.worldpainter.net) by [@Captain-Chaos](https://github.com/Captain-Chaos/WorldPainter)  
+* [WorldSynth](https://www.worldsynth.net) by [booleanbyte](https://www.booleanbyte.com)  
 
 ## Heightmaps
 Use [import image heightmap](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportHeightmap) in Avoyd. 
@@ -189,7 +190,7 @@ Use [import image heightmap](https://www.avoyd.com/avoyd-voxel-editor-documentat
 * [Scape](https://www.decarpentier.nl/scape) by Giliam de Carpentier  
 * [WorldPainter](https://www.worldpainter.net) by [@Captain-Chaos](https://github.com/Captain-Chaos/WorldPainter)  
 ## Colour Palettes
-Import [Import image palette as materials](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportColour) in Avoyd.
+Use [import image palette as materials](https://www.avoyd.com/avoyd-voxel-editor-documentation.html#ImportColour) in Avoyd.
 ### Assets
 * [Lospec Palettes](https://lospec.com/palette-list)  
 ### Generators
