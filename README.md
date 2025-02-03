@@ -161,8 +161,9 @@ You can [open any `.vox` file in Avoyd](https://www.avoyd.com/avoyd-voxel-editor
 * [Dungeon set](https://austin-io.itch.io/voxel-dungeon-set) by Austin-IO  
 * [Dungeon assets](https://felixstrefter.itch.io/dungeon-voxel-assets) by Felix Strefter (CC0)  
 * [Oasis](https://github.com/Phyronnaz/VoxelAssets/tree/master/Oasis) by Hard Cover (CC0)  
-* [Free Voxel Assets (buildings, environment, food, tools)](https://gorlaks.itch.io/voxel-assets) by Gorlaks (CC BY)  
-* [Town Tycoon](https://sorceressgamelab.itch.io/town-tycoon-pack) and [Characters](https://sorceressgamelab.itch.io/voxel-characters) by SorceressGameLab  
+* [Buildings, environment, food, tools](https://gorlaks.itch.io/voxel-assets) by Gorlaks (CC BY)  
+* [Town Tycoon](https://sorceressgamelab.itch.io/town-tycoon-pack) and [characters](https://sorceressgamelab.itch.io/voxel-characters) by SorceressGameLab  
+* [Trees](https://mountainlabsyt.itch.io/voxel-tree-pack) and [mushrooms](https://mountainlabsyt.itch.io/free-mushroom-voxel-pack) by MountainLabs (CC0)  
 * [Subreddit r/gameassets filtered by "Voxel" flair](https://www.reddit.com/r/gameassets/?f=flair_name%3A%22Voxel%22)  
 * [OpenGameArt.org](https://opengameart.org/)  
 
