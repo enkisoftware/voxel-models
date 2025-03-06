@@ -155,15 +155,15 @@ You can [open any `.vox` file in Avoyd](https://www.avoyd.com/avoyd-voxel-editor
 ### Assets
 * [Vox models](https://github.com/kluchek/vox-models) by @Kluchek (CC BY 4.0)  
 * [Mini Mike's Metro Minis](https://github.com/mikelovesrobots/mmmm) by Mike Judge - [@mikelovesrobots](https://github.com/mikelovesrobots) (CC BY 4.0)  
-* [Game scenes](https://github.com/Akamai-Community/inspiring-game-scenes) (Akamai commission) by Zach Soares (CC BY 4.0)  
 * [Spaceships and weapons](https://technistguru.itch.io) by @technistguru (CC0 and CC BY 4.0)  
 * [Vehicles](https://geeksagon.itch.io) by Geeksagon (CC0)  
-* [Dungeon set](https://austin-io.itch.io/voxel-dungeon-set) by Austin-IO  
+* [Dungeon set](https://austin-io.itch.io/voxel-dungeon-set) by AUSTIN-IO (CC0)  
 * [Dungeon assets](https://felixstrefter.itch.io/dungeon-voxel-assets) by Felix Strefter (CC0)  
 * [Oasis](https://github.com/Phyronnaz/VoxelAssets/tree/master/Oasis) by Hard Cover (CC0)  
 * [Buildings, environment, food, tools](https://gorlaks.itch.io/voxel-assets) by Gorlaks (CC BY)  
 * [Town Tycoon](https://sorceressgamelab.itch.io/town-tycoon-pack) and [characters](https://sorceressgamelab.itch.io/voxel-characters) by SorceressGameLab  
 * [Trees](https://mountainlabsyt.itch.io/voxel-tree-pack) and [mushrooms](https://mountainlabsyt.itch.io/free-mushroom-voxel-pack) by MountainLabs (CC0)  
+* [Vengi voxel models](https://github.com/vengi-voxel/voxels)  
 * [Subreddit r/gameassets filtered by "Voxel" flair](https://www.reddit.com/r/gameassets/?f=flair_name%3A%22Voxel%22)  
 * [OpenGameArt.org](https://opengameart.org/)  
 
